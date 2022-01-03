@@ -9,10 +9,3 @@ Added emoji's :rocket:
 
 Мы здесь на планете землья.
 
----
-
-Interesting ideas atm:
-
-- how to model social diffusion? or traffic
-
-
